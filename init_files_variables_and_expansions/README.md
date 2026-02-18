@@ -1,0 +1,1 @@
+Shell, init files, variables and expansions: this project covers how Bash starts up and reads configuration files, how to create and use environment variables and aliases, and how the shell expands things like $VAR, ~, *, quotes, command substitution $(...), and arithmetic ((...)) to turn what you type into the commands that actually run.
