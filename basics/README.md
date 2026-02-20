@@ -1,0 +1,1 @@
+This folder contains my solutions for Holberton’s “Shell, basics” project: a set of short Bash scripts that practise core terminal skills (what the shell is, navigation with cd/pwd/ls, inspecting files with less/file, links, wildcards, and basic file manipulation with cp/mv/rm/mkdir).
