@@ -1,1 +1,1 @@
-# holbertonschool-shell
+This holbertonschool-shell repository contains my Holberton projects on core Bash and Linux command-line fundamentals: Shell, basics, Shell, permissions, Shell, I/O Redirections and filters, and Shell, init files, variables and expansions. Across these folders, you’ll find small, focused scripts that practise navigation and file operations, managing users/groups and permissions, redirecting and piping streams with common text-processing tools, and working with aliases, environment variables, expansions, and shell initialisation files.
