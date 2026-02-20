@@ -1,1 +1,1 @@
-it is readme
+This repo contains small Bash scripts that practise I/O redirection and text filtering in the Unix shell. It covers redirecting stdout (and stdin), piping output between programmes, and chaining classic filters together (e.g., cat, head, tail, find, wc, sort, uniq, grep, tr, rev, cut).
